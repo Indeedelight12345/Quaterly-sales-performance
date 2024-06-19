@@ -1,7 +1,7 @@
 ### Description
 Sales PerformanceDashboard is a comprehensive tool designed to monitor and analyze the sales performance of a company specializing in computer hardware. The primary purpose of this project is to track and evaluate the performance of sales employees on a quarterly basis. The project includes designing a dashboard to visualize key metrics such as the number of deals carried out by each salesperson, the revenue generated, and the status of deals (won, lost, or pending).
 
-###  The main goal of Sales Performance Dashboard is to provide a clear and detailed view of sales performance, helping the company understand the effectiveness of its sales team. By offering insights into individual and overall sales achievements, the tool aids in identifying strengths and areas for improvement.
+###  The main goal of Sales Performance Dashboard is to provide a clear and detailed view of sales performance in the last quater of the year which  help the company understand the effectiveness of its sales team. By offering insights into individual and overall sales achievements, the tool aids in identifying strengths and areas for improvement.
 
 
 ### Main Features
@@ -23,10 +23,13 @@ company that sells computer hardware. The data includes details about various as
 2. perform data cleaning
 4. ckeck for missing data  and replace
 5. Bring in the "manager" and "regional_office" for each "sales_agent" in the sales using xlookup
-6. greate pivot table
+6. create pivot table
 7. Insert a pivot table on a new tab to show opportunities won by quarter
 8. Add another pivot table (on the same sheet) to break down the percentage of won & lost opportunities by quarter
 9. Create a final pivot table that shows the opportunities won by quarter for each sales agent, and sort the sales agents in descending order by opportunities won
 10. Restructure the first two pivot tables so they have the quarters as pivot table columns (not rows), and sort them so the most recent quarter always comes first
+
+### Tools
+1. Google sheet
 
 
