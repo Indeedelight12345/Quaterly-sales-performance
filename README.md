@@ -2,7 +2,10 @@
 Sales PerformanceDashboard is a comprehensive tool designed to monitor and analyze the sales performance of a company specializing in computer hardware. The primary purpose of this project is to track and evaluate the performance of sales employees on a quarterly basis. The project includes designing a dashboard to visualize key metrics such as the number of deals carried out by each salesperson, the revenue generated, and the status of deals (won, lost, or pending).
 
 
-## The main goal of the SalesPerformanceDashboard is to provide a clear and detailed view of sales performance for the last quarter of the year. This helps the company track its sales performance during this period by offering insights into individual salespersons and their achievements at the end of the last quarter.
+
+
+### Purpose
+The main goal of the Sales  Performance Dashboard is to provide a clear and detailed view of sales performance for the last quarter of the year. This helps the company track its sales performance during this period by offering insights into individual salespersons and their achievements at the end of the last quarter.
 
 
 ### Main Features
