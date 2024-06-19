@@ -36,4 +36,6 @@ company that sells computer hardware. The data includes details about various as
 ### Tools
 1. Google sheet
 
+### https://docs.google.com/spreadsheets/d/1oEo54N6tJmwcNhWgX5Av8S_ANuSKLOCtwVgJs9yVHpU/edit?usp=drive_link
+
 
